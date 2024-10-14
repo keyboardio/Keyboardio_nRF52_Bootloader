@@ -44,15 +44,15 @@
 /* BUTTON
  *------------------------------------------------------------------*/
 #define BUTTONS_NUMBER        2
-#define BUTTON_1              _PINNUM(1, 14)
-#define BUTTON_2              _PINNUM(1, 12)
+#define BUTTON_1              _PINNUM(1,14) 
+#define BUTTON_2              _PINNUM(1,12) 
 #define BUTTON_PULL           NRF_GPIO_PIN_PULLUP
 
 //--------------------------------------------------------------------+
 // BLE OTA
 //--------------------------------------------------------------------+
 #define BLEDIS_MANUFACTURER   "Keyboardio"
-#define BLEDIS_MODEL          "Preonic"
+#define BLEDIS_MODEL          "Preonic OTA"
 
 //--------------------------------------------------------------------+
 // USB
