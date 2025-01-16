@@ -38,7 +38,7 @@
 #define LED_NEOPIXEL          _PINNUM(0, 24)
 #define NEOPIXEL_POWER_PIN    _PINNUM(1, 05)
 #define NEOPIXELS_NUMBER     4 
-#define BOARD_RGB_BRIGHTNESS  0x040404
+#define BOARD_RGB_BRIGHTNESS  0x020202
 
 /*------------------------------------------------------------------*/
 /* BUTTON
